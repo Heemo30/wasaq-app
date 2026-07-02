@@ -117,8 +117,7 @@ npm run dev
 
 ## Live Demo
 
-🔗 **[رابط التطبيق المباشر](https://wasaq.featurestree.com)** ← أضف الرابط هنا بعد النشر
-
+🔗 **[رابط التطبيق المباشر](https://wasaq.featurestree.com)** 
 ---
 
 ## Screenshots
