@@ -117,7 +117,7 @@ npm run dev
 
 ## Live Demo
 
-🔗 **[رابط التطبيق المباشر](https://YOUR-PROJECT.vercel.app)** ← أضف الرابط هنا بعد النشر
+🔗 **[رابط التطبيق المباشر](https://wasaq.featurestree.com)** ← أضف الرابط هنا بعد النشر
 
 ---
 
@@ -141,14 +141,6 @@ npm run dev
 | `/demo` | ⚙️ لوحة ديمو (غير مدرجة في التنقل) |
 
 ---
-
-## النشر على Vercel / Deploy to Vercel
-
-```bash
-npx vercel --prod
-```
-
-أو اربط المستودع في [vercel.com](https://vercel.com) — لا يحتاج إعداداً إضافياً.
 
 ---
 
