@@ -58,7 +58,7 @@ Most people check their balance before spending. But that balance includes money
 ## تشغيل محلي / Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wasaq.git
+git clone https://github.com/Heemo30/wasaq.git
 cd wasaq
 npm install
 npm run dev
